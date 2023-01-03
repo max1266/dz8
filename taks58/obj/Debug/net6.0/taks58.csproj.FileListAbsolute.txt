@@ -1,0 +1,15 @@
+F:\education\taks58\bin\Debug\net6.0\taks58.exe
+F:\education\taks58\bin\Debug\net6.0\taks58.deps.json
+F:\education\taks58\bin\Debug\net6.0\taks58.runtimeconfig.json
+F:\education\taks58\bin\Debug\net6.0\taks58.dll
+F:\education\taks58\bin\Debug\net6.0\taks58.pdb
+F:\education\taks58\obj\Debug\net6.0\taks58.csproj.AssemblyReference.cache
+F:\education\taks58\obj\Debug\net6.0\taks58.GeneratedMSBuildEditorConfig.editorconfig
+F:\education\taks58\obj\Debug\net6.0\taks58.AssemblyInfoInputs.cache
+F:\education\taks58\obj\Debug\net6.0\taks58.AssemblyInfo.cs
+F:\education\taks58\obj\Debug\net6.0\taks58.csproj.CoreCompileInputs.cache
+F:\education\taks58\obj\Debug\net6.0\taks58.dll
+F:\education\taks58\obj\Debug\net6.0\refint\taks58.dll
+F:\education\taks58\obj\Debug\net6.0\taks58.pdb
+F:\education\taks58\obj\Debug\net6.0\taks58.genruntimeconfig.cache
+F:\education\taks58\obj\Debug\net6.0\ref\taks58.dll
