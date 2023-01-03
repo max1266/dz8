@@ -1,0 +1,15 @@
+F:\education\dz8\task60\bin\Debug\net6.0\task60.exe
+F:\education\dz8\task60\bin\Debug\net6.0\task60.deps.json
+F:\education\dz8\task60\bin\Debug\net6.0\task60.runtimeconfig.json
+F:\education\dz8\task60\bin\Debug\net6.0\task60.dll
+F:\education\dz8\task60\bin\Debug\net6.0\task60.pdb
+F:\education\dz8\task60\obj\Debug\net6.0\task60.csproj.AssemblyReference.cache
+F:\education\dz8\task60\obj\Debug\net6.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+F:\education\dz8\task60\obj\Debug\net6.0\task60.AssemblyInfoInputs.cache
+F:\education\dz8\task60\obj\Debug\net6.0\task60.AssemblyInfo.cs
+F:\education\dz8\task60\obj\Debug\net6.0\task60.csproj.CoreCompileInputs.cache
+F:\education\dz8\task60\obj\Debug\net6.0\task60.dll
+F:\education\dz8\task60\obj\Debug\net6.0\refint\task60.dll
+F:\education\dz8\task60\obj\Debug\net6.0\task60.pdb
+F:\education\dz8\task60\obj\Debug\net6.0\task60.genruntimeconfig.cache
+F:\education\dz8\task60\obj\Debug\net6.0\ref\task60.dll
